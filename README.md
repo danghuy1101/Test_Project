@@ -19,3 +19,4 @@ Nếu bạn có bất kỳ câu hỏi, đề xuất hoặc muốn đóng góp v�
 ###
 
 Chúng tôi rất mong rằng dự án Du Lịch Kon Tum sẽ giúp bạn khám phá và yêu mến vùng đất này cũng như hỗ trợ cộng đồng du lịch cộng đồng phát triển. Hãy cùng chúng tôi khám phá Kon Tum và tạo ra những kỷ niệm đáng nhớ!
+sandandiamsdoa
